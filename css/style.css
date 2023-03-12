@@ -1,0 +1,30 @@
+header {
+    margin: 0px;
+   
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-left-width: 0px;
+    border-color: gold;
+
+}
+
+.main-div {
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+img {
+    height: 200pxpx;
+    width: 750px;
+}
+
+.cookbook {
+    align-items: center;
+    /* width: fit-content; */
+    margin-left: 200px;
+    width: fit-content;
+}
+
+.intro-text {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana;
+}
